@@ -9,7 +9,8 @@
 
 int main(int argc, char **argv) {
 
-	prinf("Henry Buscher & Diego Almanza/n");
+	printf("Henry Buscher & Diego Almanza/n");
 
+	printf("Computer Engineering"/n);
 	return 0;
 }
