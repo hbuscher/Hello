@@ -11,6 +11,7 @@ int main(int argc, char **argv) {
 
 	printf("Henry Buscher & Diego Almanza/n");
 
-	printf("Computer Engineering"/n);
+	printf("Computer Engineering Majors"/n);
+
 	return 0;
 }
