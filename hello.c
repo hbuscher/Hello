@@ -1,5 +1,5 @@
 /**
- *Authors: Henry Buscher Diego Almanza & Isaac Baysinger
+ *Authors: Henry Buscher & Diego Almanza
  *Date: 2019/29/08
  *
  *Prints names of Authors
@@ -9,7 +9,7 @@
 
 int main(int argc, char **argv) {
 
-	prinf("Henry Buscher, Diego Almanza & Isaac Baysinger/n");
+	prinf("Henry Buscher & Diego Almanza/n");
 
 	return 0;
 }
